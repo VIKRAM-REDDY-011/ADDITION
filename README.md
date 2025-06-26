@@ -1,2 +1,7 @@
 # ADDITION
 BASIC ADDITION PROGRAM IN PYTHON
+
+a=50;
+b=100;
+c=a+b;
+print("a+b=",c)
